@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  Jake is a tool that allows you to effortlessly create your one-link website and deploy it on your GitHub account.
+  Notsold is a tool that allows you to effortlessly create your one-link website and deploy it on your GitHub account.
   <br />
   <br />
   <a href="https://github.com/NotSoldierocks/NotSoldierocks.github.io">Demo</a>
