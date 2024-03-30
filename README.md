@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://github.com/thevahidal/jake">
+    <a href="https://github.com/NotSoldierocks/NotSoldierocks.github.io">
         <img src='docs/logo.jpeg' height='200px' style="">
     </a>
 </h1>
@@ -8,7 +8,7 @@
   Jake is a tool that allows you to effortlessly create your one-link website and deploy it on your GitHub account.
   <br />
   <br />
-  <a href="https://thevahidal.github.io/jake">Demo</a>
+  <a href="https://github.com/NotSoldierocks/NotSoldierocks.github.io">Demo</a>
 </div>
 
 ## Usage
@@ -17,7 +17,7 @@
 
 To get started, follow these steps to create a new repository using this template:
 
-1. Click [here](https://github.com/new?template_name=jake&template_owner=thevahidal) to create a new repository.
+1. Click [here](https://github.com/new?template_name=NotSoldierocks&template_owner=NotSoldierocks) to create a new repository.
 2. Choose a name for your repository. If you want your website to be deployed at `<yourusername>.github.io`, name your repository `<yourusername>.github.io`. Alternatively, you can choose any other name, such as `that-other-name`, which will result in your website being deployed at `<yourusername>.github.io/that-other-name/`.
 
 ### 2. Enable GitHub Pages
@@ -41,7 +41,7 @@ To customize your website, follow these steps:
 
 #### General Information
 
-- `name`: Your name (e.g., "Vahid Al")
+- `name`: Your name (e.g., "Bhavesh")
 - `description`: A brief bio about yourself (e.g., "Software Developer and passionate about creating things")
 - `keywords`: Keywords for the keywords meta tag (e.g., "python, javascript, go")
 - `image`: The file address of your avatar. Place your avatar inside the `dist/img/` folder (e.g., "me.jpeg" - Note that the `/dist/img/` address is not included)
@@ -49,7 +49,7 @@ To customize your website, follow these steps:
 - `primary_color`: Specify your website's primary color using a hexadecimal color code (e.g., "#00897b")
 - `text_align`: Specify the text alignment for your website: "right", "left" or "center" (e.g., "center")
 - `gtag_id`: Your Google Analytics tracking ID (e.g., "G-33WB8LVHR6")
-- `base_url`: The base URL for your website, mentioned in **1. Create a Repository** step (e.g., https://thevahidal.github.io/jake)
+- `base_url`: The base URL for your website, mentioned in **1. Create a Repository** step (e.g., (https://github.com/NotSoldierocks/NotSoldierocks.github.io))
 
 #### Sections
 
@@ -70,7 +70,7 @@ Each item is defined using `[[sections.items]]` and has the following components
 
 - `title`: The title of the item (e.g., "Soul")
 - `description`: A brief description of the item (e.g., "An SQLite REST and Real-time server")
-- `url`: The URL associated with the item (e.g., "https://github.com/thevahidal/soul")
+- `url`: The URL associated with the item (e.g., "(https://github.com/NotSoldierocks/NotSoldierocks.github.io)")
 
 </details>
 
