@@ -114,13 +114,13 @@ with open("data.toml", "rb") as f:
 
     footer = frag(
         h("footer", klass="container")(
-            h("small")("Generated with "),
+            h("small")("Made By "),
             h(
                 "a",
                 klass="",
-                href="https://github.com/thevahidal/jake/",
+                href="",
                 target="_blank",
-            )("Jake"),
+            )("Bhavesh Basrani"),
         ),
     )
 
